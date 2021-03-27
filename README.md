@@ -1,6 +1,6 @@
-# So you want to make a CRUD app using the Material UI kit by Creative Tim?
+## So you want to make a CRUD app using the Material UI kit by Creative Tim?
 
-## Alright. So do I.
+# Alright. So do I.
 
 Let's: 
 - lock arms
